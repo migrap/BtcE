@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Btce/BtceClient.cs">
+    <Files>
+      <File FileName="Btce/Configuration/BtceClientConfigurator.cs" Line="39" Column="25" />
+      <File FileName="Btce/BtceClient.cs" Line="37" Column="4" />
+      <File FileName="Btce/IHttpRequestMessageConfigurator.cs" Line="12" Column="3" />
+      <File FileName="../../../MtGox/src/MtGox/IHttpRequestMessageConfigurator.cs" Line="6" Column="6" />
+      <File FileName="../../../MtGox/src/MtGox/HttpRequestMessageConfigurator.cs" Line="40" Column="6" />
+      <File FileName="Btce/HttpRequestMessageConfigurator.cs" Line="6" Column="18" />
+      <File FileName="Btce/Net/Http/Formatting/BtceMediaTypeFormatter.cs" Line="21" Column="21" />
+      <File FileName="Btce/Extensions.cs" Line="109" Column="28" />
+      <File FileName="../../../MtGox/src/MtGox/Extensions.cs" Line="143" Column="6" />
+      <File FileName="../../../MtGox/src/MtGox/Net/Http/HmacDelegatingHandler.cs" Line="30" Column="49" />
+      <File FileName="Btce/ApiException.cs" Line="17" Column="17" />
+      <File FileName="../../../MtGox/src/MtGox/ApiException.cs" Line="15" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
